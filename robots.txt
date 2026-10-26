@@ -1,0 +1,8 @@
+# Search engines may read every page of OpenReliant's sites. The sitemaps list them: the website's
+# own pages, its docs, and the mods' site.
+User-agent: *
+Allow: /
+
+Sitemap: https://openreliant.github.io/openreliant/sitemap.xml
+Sitemap: https://openreliant.github.io/openreliant/docs/sitemap.xml
+Sitemap: https://openreliant.github.io/openreliant-mods/sitemap.xml
