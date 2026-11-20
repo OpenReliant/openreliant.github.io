@@ -3,6 +3,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://openreliant.github.io/openreliant/sitemap.xml
-Sitemap: https://openreliant.github.io/openreliant/docs/sitemap.xml
-Sitemap: https://openreliant.github.io/openreliant-mods/sitemap.xml
+Sitemap: https://openreliant.space/sitemap.xml
+Sitemap: https://openreliant.space/docs/sitemap.xml
+Sitemap: https://mods.openreliant.space/sitemap.xml
